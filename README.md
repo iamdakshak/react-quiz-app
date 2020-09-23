@@ -1,5 +1,5 @@
 # Visit demo
-https://dakshaknagrale.in/react-quiz-app
+<a href="https://dakshaknagrale.in/react-quiz-app" target="_blank">https://dakshaknagrale.in/react-quiz-app</a>
 
 ### Setting up project
 
