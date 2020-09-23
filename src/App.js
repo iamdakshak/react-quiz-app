@@ -43,17 +43,17 @@ export default function App() {
 			answerOptions: [
 				{ answerText: 'Charles Babbage', isCorrect: false },
 				{ answerText: 'Ronald Dahl', isCorrect: false },
-				{ answerText: 'Alan Turing', isCorrect: false },
-				{ answerText: 'Seymour Cray', isCorrect: true },
+				{ answerText: 'Alan Turing', isCorrect: true },
+				{ answerText: 'Seymour Cray', isCorrect: false },
 			],
 		},
 		{
 			questionText: 'What character does Tom Cruise portray in Mission Impossible series?',
 			answerOptions: [
 				{ answerText: 'Jason Bourne', isCorrect: false },
-				{ answerText: 'Ethan Hunt', isCorrect: false },
+				{ answerText: 'Ethan Hunt', isCorrect: true },
 				{ answerText: 'James Bond', isCorrect: false },
-				{ answerText: 'Neo', isCorrect: true },
+				{ answerText: 'Neo', isCorrect: false },
 			],
 		},
 		{
@@ -69,9 +69,9 @@ export default function App() {
 			questionText: 'What is Ichigo Kurusaki\'s (from Bleach) Zanpakuto named?',
 			answerOptions: [
 				{ answerText: 'Senbonzakura', isCorrect: false },
-				{ answerText: 'Zangetsu', isCorrect: false },
+				{ answerText: 'Zangetsu', isCorrect: true },
 				{ answerText: 'Kazeshini', isCorrect: false },
-				{ answerText: 'Ryurin Jakka', isCorrect: true },
+				{ answerText: 'Ryurin Jakka', isCorrect: false },
 			],
 		},
 	];
