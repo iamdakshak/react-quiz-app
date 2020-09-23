@@ -73,7 +73,7 @@ export default function App() {
 				{ answerText: 'Kazeshini', isCorrect: false },
 				{ answerText: 'Ryurin Jakka', isCorrect: false },
 			],
-		},
+		}
 	];
 	const [currentQuestion, setCurrentQuestion] = useState(0);
 
